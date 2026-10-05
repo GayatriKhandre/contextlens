@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+backend/contextlens.db
+backend/contextlens.db-shm
+backend/contextlens.db-wal
+backend/tests/test.db
+.DS_Store
