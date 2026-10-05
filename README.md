@@ -92,3 +92,8 @@ Compare
 Synthesize
    ↓
 Human Decides
+
+
+
+<img width="1917" height="882" alt="image" src="https://github.com/user-attachments/assets/36f7ded8-6511-44ba-923b-fd9b24caf6e8" />
+
