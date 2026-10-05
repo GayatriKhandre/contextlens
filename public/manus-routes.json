@@ -1,0 +1,1 @@
+{"routes":[{"path":"/","title":"Dashboard"},{"path":"/new","title":"New case"},{"path":"/cases","title":"Cases"},{"path":"/decisions","title":"Decisions"},{"path":"/personal-context","title":"Personal context"},{"path":"/settings","title":"Settings"}]}
